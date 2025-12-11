@@ -11,6 +11,7 @@ A comprehensive guide to prompt engineering with artificial intelligence
 5. [Understanding Role, Context, Task, Audience & Tone](#understanding-role-context-task-audience--tone)
 6. [Structuring High-Quality Prompts](#structuring-high-quality-prompts)
 7. [Advanced Prompting Techniques](#advanced-prompting-techniques)
+8. [Common Prompt Patterns](#common-prompt-patterns)
 
 ----
 ## INTRODUCTION TO PROMPT ENGINEERING
@@ -297,3 +298,40 @@ Ask the AI to evaluate and refine its own work.
 Use multiple rounds: improve → refine → finalize.
 
 ----
+## COMMON PROMPT PATTERNS
+
+### 1. Rewrite
+
+Rewrite this text to be more professional and concise…
+
+### 2. Summarize
+
+Summarize the following document in 5 bullet points…
+
+### 3. Explain
+
+Explain this concept to a beginner…
+
+### 4. Compare
+
+Compare Option A and Option B using a table…
+
+### 5. Brainstorm
+
+Generate 10 creative ideas for…
+
+### 6. Analyze
+
+Analyze the tone, clarity, and structure of the following…
+
+### 7. Translate
+
+Translate this content into simple, plain language…
+
+### 8. Create
+
+Create a project plan with milestones, risks, and dependencies…
+
+### 9. Improve
+
+Improve this email to sound friendly but professional…
