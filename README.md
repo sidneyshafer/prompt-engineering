@@ -1,5 +1,5 @@
 # AI Prompt Engineering
-A comprehensive guide to prompt engineering with artificial intelligence
+***A comprehensive guide for general-purpose AI usage across any domain***
 
 ----
 ## TABLE OF CONTENTS
