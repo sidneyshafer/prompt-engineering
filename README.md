@@ -12,6 +12,7 @@ A comprehensive guide to prompt engineering with artificial intelligence
 6. [Structuring High-Quality Prompts](#structuring-high-quality-prompts)
 7. [Advanced Prompting Techniques](#advanced-prompting-techniques)
 8. [Common Prompt Patterns](#common-prompt-patterns)
+9. [Best Practices for Reliable AI Output](#best-practices-for-reliable-ai-output)
 
 ----
 ## INTRODUCTION TO PROMPT ENGINEERING
@@ -335,3 +336,26 @@ Create a project plan with milestones, risks, and dependencies…
 ### 9. Improve
 
 Improve this email to sound friendly but professional…
+
+----
+## BEST PRACTICES FOR RELIABLE AI OUTPUT
+
+### :heavy_check_mark: Provide examples
+
+Models learn from patterns.
+
+### :heavy_check_mark: Break complex tasks into steps
+
+Better results always follow structure.
+
+### :heavy_check_mark: Review the output
+
+AI improves when you refine the prompt based on results.
+
+### :heavy_check_mark: Avoid ambiguity
+
+Specify length, tone, audience, and format.
+
+### :heavy_check_mark: Keep prompts reusable
+
+Use templates for repeat tasks.
