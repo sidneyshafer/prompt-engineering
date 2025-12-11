@@ -9,6 +9,7 @@ A comprehensive guide to prompt engineering with artificial intelligence
 3. [Core Principles of Effective Prompts](#core-principles-of-effective-prompts)
 4. [Prompt Engineering Template](#prompt-engineering-template)
 5. [Understanding Role, Context, Task, Audience & Tone](#understanding-role-context-task-audience--tone)
+6. [Structuring High-Quality Prompts](#structuring-high-quality-prompts)
 
 ----
 ## INTRODUCTION TO PROMPT ENGINEERING
@@ -181,3 +182,86 @@ Here is an example to follow: **[provide your example]**
 
 ----
 ## UNDERSTANDING ROLE, CONTEXT, TASK, AUDIENCE & TONE
+
+These five components create the backbone of all effective prompts.
+
+### 1. Role
+Roles help shape the expertise the AI uses when responding.
+
+Examples:
+
+* “Act as a legal researcher.”
+* “Act as a marketing copywriter.”
+* “Act as a data analyst.”
+* “Act as a coach.”
+
+### 2. Context
+Context allows the model to understand:
+
+* what you are working on
+* why you need it
+* what has already been done
+* any constraints
+* any missing information
+
+More context = better output.
+
+### 3. Task
+The task is the **action** you need completed.
+
+Weak:
+
+> Help me with this email.
+
+Strong:
+
+> Rewrite the following email to be more concise, professional, and clear. Keep the same meaning.
+
+### 4. Audience
+Specifying the audience shapes:
+
+* tone
+* level of detail
+* technical complexity
+* structure
+
+Examples:
+
+* “Write for beginners.”
+* “Write for senior executives.”
+* “Write for technical users.”
+
+### 5. Tone
+Tone controls the *voice*.
+
+Examples:
+
+* Professional and concise
+* Friendly and upbeat
+* Technical and precise
+* Simple and easy to understand
+
+----
+## STRUCTURING HIGH-QUALITY PROMPTS
+The 5-Layer Prompt Structure
+
+1. Role
+2. Context
+3. Task
+4. Formatting Instructions
+5. Constraints
+
+Example of a Well-Structured Prompt
+
+> You are a professional editor.
+> 
+> I am writing an executive summary about a workplace improvement project. The audience is senior leadership with limited time.
+>
+> Please rewrite the following text to be more concise, business-focused, and polished, while keeping the original meaning.
+>
+> Respond in 3 sections:
+> 1. Improved version
+> 2. Bullet point key messages
+> 3. Suggested title
+>
+> Keep the tone formal, confident, and clear.
