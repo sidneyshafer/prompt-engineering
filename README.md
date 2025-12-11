@@ -10,6 +10,7 @@ A comprehensive guide to prompt engineering with artificial intelligence
 4. [Prompt Engineering Template](#prompt-engineering-template)
 5. [Understanding Role, Context, Task, Audience & Tone](#understanding-role-context-task-audience--tone)
 6. [Structuring High-Quality Prompts](#structuring-high-quality-prompts)
+7. [Advanced Prompting Techniques](#advanced-prompting-techniques)
 
 ----
 ## INTRODUCTION TO PROMPT ENGINEERING
@@ -265,3 +266,34 @@ Example of a Well-Structured Prompt
 > 3. Suggested title
 >
 > Keep the tone formal, confident, and clear.
+
+----
+## ADVANCED PROMPTING TECHNIQUES
+
+### 1. Chain-of-Thought Prompting
+
+Ask the AI to show its reasoning.
+
+> Explain your reasoning step-by-step before giving the final answer.
+
+### 2. Deliberate Prompting
+
+Ask for multiple options.
+
+> Generate 3 variations and then identify the strongest one with a short explanation.
+
+### 3. Persona Switching
+
+Have the model rewrite from different perspectives.
+
+### 4. Critique and Improve
+
+Ask the AI to evaluate and refine its own work.
+
+> Critique your response and then provide an improved version.
+
+### 5. Iterative Refinement
+
+Use multiple rounds: improve → refine → finalize.
+
+----
