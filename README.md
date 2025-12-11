@@ -13,6 +13,7 @@ A comprehensive guide to prompt engineering with artificial intelligence
 7. [Advanced Prompting Techniques](#advanced-prompting-techniques)
 8. [Common Prompt Patterns](#common-prompt-patterns)
 9. [Best Practices for Reliable AI Output](#best-practices-for-reliable-ai-output)
+10. [Ethical and Responsible Use of AI](#ethical-and-responsible-use-of-ai)
 
 ----
 ## INTRODUCTION TO PROMPT ENGINEERING
@@ -359,3 +360,14 @@ Specify length, tone, audience, and format.
 ### :heavy_check_mark: Keep prompts reusable
 
 Use templates for repeat tasks.
+
+----
+## ETHICAL AND RESPONSIBLE USE OF AI
+
+* Do not share confidential or personal data
+* Verify accuracy—AI can produce errors
+* Avoid relying on AI for specialized legal, medical, or compliance decisions
+* Be transparent when AI assists in deliverables
+* Maintain human oversight in all final outputs
+
+----
